@@ -1,0 +1,1 @@
+These are programs written in unix Environment with help from the book "Advanced Programming in Unix Environment" By "Richard Stevens" and various other web sources.They are categorized chapter-wise from this book.
